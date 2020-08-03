@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Karan Alves Pereira
+# Paula Santana
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paula-macedo-santana-dev/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@paulasantana)
