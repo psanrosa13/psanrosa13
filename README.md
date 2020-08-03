@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paula-macedo-santana-dev/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@paulasantana)
 [![Dev.to](https://img.shields.io/badge/Dev.To-Profile-lightgrey)](https://dev.to/psanrosa13)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=Twitter)](https://twitter.com/psanrosa13)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/psanrosa13)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psanrosa13@gmail.com)](mailto:psanrosa13@gmail.com)
 
 
