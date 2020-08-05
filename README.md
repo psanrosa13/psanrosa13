@@ -34,33 +34,31 @@ Membro da organização do SouJava e do Devs JavaGirl
 
 ## Agenda
 
-Toda Segunda a cada  2 semanas apresento o programa Devs JavaGirl Talk Show no canal do Devs JavaGirls
-
-Toda quarta a noite puxo o mobi de Java no Perifacode
-
-Todo sábado sou host no encontro do mobi do Devs JavaGirls.
+- Toda Segunda a cada  2 semanas apresento o programa Devs JavaGirl Talk Show no canal do Devs JavaGirls
+- Toda quarta a noite puxo o mobi de Java no Perifacode
+- Todo sábado sou host no encontro do mobi do Devs JavaGirls.
 
 ## Hobbies
 
-Artes marciais
-Graduada em Judô e Kickboxing
+- Artes marciais
+- Graduada em Judô e Kickboxing
 
 ## Tempo livre
 
-Eu costumo ajudar minha mãe nas lições do EJA e meu marido nos estudos de programação.
-Auxilio pessoas que tem ficuldade em conseguir um novo emprego como dev ou que precisam de orientação
-Assisto séries
-Vejo familiares
+- Eu costumo ajudar minha mãe nas lições do EJA e meu marido nos estudos de programação.
+- Auxilio pessoas que tem dificuldade em conseguir um novo emprego como dev ou que precisam de orientação
+- Assisto séries
+- Vejo familiares
 
 ## Livros Lidos
 
-Clean Code - li em modo consulta, ainda não li 100%, mas uso pata consultas diariamente
-Clean Architecture - estou lendo e curtindo
-Effective Java - li quase todos os capítulos, uso ele para consulta no dia a dia.
+- Clean Code - li em modo consulta, ainda não li 100%, mas uso pata consultas diariamente
+- Clean Architecture - estou lendo e curtindo
+- Effective Java - li quase todos os capítulos, uso ele para consulta no dia a dia.
 
-Brene Brown
-A coragem de ser imperfeito
-Achei que isso só acontecia comigo
-A coragem para liderar
+### [Brene Brown](https://brenebrown.com/)
+- A coragem de ser imperfeito
+- Achei que isso só acontecia comigo
+- A coragem para liderar
 
 
