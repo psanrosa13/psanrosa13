@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paula-macedo-santana-dev/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@paulasantana)
 [![Dev.to](https://img.shields.io/badge/Dev.To-Profile-lightgrey)](https://dev.to/psanrosa13)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/psanrosa13)
+[![SlideShare](https://img.shields.io/badge/SlideShare-Profile-orange)](https://dev.to/psanrosa13)
+[![Twitter](https://img.shields.io/badge/)](https://www2.slideshare.net/PaulaSantana12)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psanrosa13@gmail.com)](mailto:psanrosa13@gmail.com)
 
 ## O que você deveria saber sobre mim
@@ -46,7 +47,7 @@ Depois comecei com o apoio e mentoria do Otavio Santana participar e organizar o
 O Devs Java Girl vota no JCP e somos um grupo oficial assim como o SouJava que também é um dos mais antigos Jugs no mundo.
 Ento sou membro da organização do SouJava e do Devs JavaGirl e participo como voluntária no Perifacode e Mulheres na Tecnologia Baixada Santista.
 Adoro mentorar pessoas e trocar figurinhas, se puder facilitar seu caminho na área de programação ficarei grata.
-
+Recebi o Prêmio de MVP da Microsoft em reconhecimento pelo que faço ans comunidades, não ganho a mais por causa disso, não é um certificado e sim só uma forma da Microsoft agradecer por quem contribui tanto com a comunidade.
 
 ## Hobbies
 
