@@ -37,8 +37,7 @@ Vale a pena revisitar o que contei há dois anos atrás e que pode inspirar muit
 https://medium.com/devs-javagirl/eu-programadora-147b1c61ac4 
 
 ## Trabalho
-Atuo no momento na Invillia, como Analista Sênior em um contexto de risco, full backend.
-Em Dezembro de 2020 começo como Specialist Engineer na Creditas.
+Atuo no momento na Creditas, como Especialista de Engenharia, algo semelhante a um  líder técnico,  em um contexto de consignado b2b.
 
 ## Comunidades
 Comecei em comunidade ativamente em 2017 com uma comunidade de Ágil chamada Caiçara Ágil em Santos-SP, depois de algum tempo quis me dedicar mais para o mundo de desenvolvimento backend e entender se o que eu passava outras pessoas tambm passavam e por isso eu comecei a atuar mais em comunidades focadas em gênero feminino.
@@ -54,24 +53,25 @@ Recebi o Prêmio de MVP da Microsoft em reconhecimento pelo que faço ans comuni
 Artes marciais
 Graduada em Judô e Kickboxing
 
-## Tempo livre
+## Livros que li que recomendo 
 
-Eu costumo ajudar minha mãe nas lições do EJA e meu marido nos estudos de programação pois ele esta migrando de área de elétrica para tecnologia, desde inicial de 2020 vem estudando sobre desenvolvimento de software e começou a faculdade.
-Auxilio pessoas que tem ficuldade em conseguir um novo emprego como dev ou que precisam de orientação.
-Assisto séries.
-Tento fazer amizades novas e manter as antigas.
-Procuro visitar parentes e cuidar da saúde fisica e psicológica.
+Clean Code - Robert C. Martin
+Clean Architecture -  Robert C. Martin
+Effective Java - Joshua Bloch 
+Migrando sistemas monolíticos para microsserviços: Padrões evolutivos para transformar seu sistema monolítico -  Sam Newman
+Padrões de Arquitetura de Aplicações Corporativas - Martin Fowler 
+Imergindo na JVM - Otávio Gonçalves de Santana e Raul Libório
+Spring Boot: Acelere o desenvolvimento de microsserviços -  Fernando Boaglio
+Microservices Patterns - Chris Richardson 
+Introdução à Arquitetura e Design de Software - Paulo Silveira, Guilherme Silveira, Sérgio Lopes, Guilherme Moreira, Nico Steppat, Fabio Kung
 
-## Livros Lidos
 
-Clean Code - li em modo consulta, ainda não li 100%, mas uso pata consultas diariamente
-Clean Architecture - estou lendo e curtindo
-Effective Java - li quase todos os capítulos, uso ele para consulta no dia a dia.
-
-Brene Brown
-A coragem de ser imperfeito
-Achei que isso só acontecia comigo
-A coragem para liderar
+A coragem de ser imperfeito - Brene Brown
+Achei que isso só acontecia comigo - Brene Brown 
+A coragem para liderar - Brene Brown
+Como fazer amigos e influenciar pessoas na era digital - Dale Carnegie
+Inteligência emocional - Daniel Goleman 
+Comunicação não-violenta: Técnicas para aprimorar relacionamentos pessoais e profissionais - Marshall B. Rosenberg
 
 ## Arquitetura
 
