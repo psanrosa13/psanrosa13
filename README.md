@@ -37,7 +37,7 @@ So I'm a member of the SouJava organization and the JavaGirl Devs and I particip
 I love mentoring people and exchanging cards, if you can ease your way into the programming area I would be grateful.
 I received the Microsoft MVP Award in recognition of what I do in our communities, I don't earn more because of it, it's not a certificate, it's just a way for Microsoft to say thanks for those who contribute so much to the community.
 
-## Bopoks 
+## Books 
 
 Clean Code - Robert C. Martin
 Clean Architecture -  Robert C. Martin
